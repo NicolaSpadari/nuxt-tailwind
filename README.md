@@ -10,10 +10,10 @@ $ npx degit NicolaSpadari/nuxt-tailwind my-app
 
 Install dependencies:
 ```sh
-$ ni # or pnpm install
+$ ni # or bun install
 ```
 
 Run project:
 ```sh
-$ nr dev # or pnpm run dev
+$ nr dev # or bun run dev
 ```
